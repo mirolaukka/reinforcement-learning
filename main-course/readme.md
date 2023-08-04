@@ -1,1 +1,1 @@
-### (Reinforcement Learning in 3 Hours | Full Course using Python)[https://www.youtube.com/watch?v=Mut_u40Sqz4&ab_channel=NicholasRenotte]
+### [https://www.youtube.com/watch?v=Mut_u40Sqz4&ab_channel=NicholasRenotte](Reinforcement Learning in 3 Hours | Full Course using Python)
